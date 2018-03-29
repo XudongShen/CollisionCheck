@@ -1,4 +1,4 @@
 CollisionCheck
 =========
 
-This is an module written in opengl for collision check
+This is a module written in opengl for collision check
